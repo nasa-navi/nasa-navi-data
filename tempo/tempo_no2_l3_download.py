@@ -1,4 +1,3 @@
-# no2_download_final.py
 import os
 import earthaccess
 
